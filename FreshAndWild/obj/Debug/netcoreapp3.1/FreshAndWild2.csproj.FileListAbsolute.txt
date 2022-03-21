@@ -1,0 +1,486 @@
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.deps.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.runtimeconfig.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.runtimeconfig.dev.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.Views.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.Views.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.AssemblyReference.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.AssemblyInfoInputs.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.AssemblyInfo.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.CoreCompileInputs.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.MvcApplicationPartsAssemblyInfo.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorAssemblyInfo.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorAssemblyInfo.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/staticwebassets/FreshAndWild2.StaticWebAssets.Manifest.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/staticwebassets/FreshAndWild2.StaticWebAssets.xml
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/scopedcss/bundle/FreshAndWild2.styles.css
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.TagHelpers.input.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.TagHelpers.output.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorCoreGenerate.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Abonnement/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/ActivityViewUser.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/AddActivity.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/AddActivity2.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/EditActivity.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/Adhesion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/ErrorAdherent.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/SuccesAdhesion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/ActiviteVue.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/benevole.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/CreerProduit.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GererAdherents.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GererProduits.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Home.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/UpdateProduit.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Benevole/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/connexion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/ErrorConnexion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/VeuillezVousConnecter.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/InnerPage.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/PortfolioDetails.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/PaiementInfo/Creer.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/PaiementInfo/Paiement.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/ObtenirPanier.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/Payer.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/SuccesPaiement.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Producteur/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Produit/DetailsProduit.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Produit/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Recettes/Recette1.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutAdmin.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutDuSite.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorTargetAssemblyInfo.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorTargetAssemblyInfo.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.Views.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.CopyComplete
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 6/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.genruntimeconfig.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.deps.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.runtimeconfig.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.runtimeconfig.dev.json
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.Views.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.Views.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.AssemblyReference.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.AssemblyInfoInputs.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.AssemblyInfo.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.CoreCompileInputs.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.MvcApplicationPartsAssemblyInfo.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorAssemblyInfo.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorAssemblyInfo.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/staticwebassets/FreshAndWild2.StaticWebAssets.Manifest.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/staticwebassets/FreshAndWild2.StaticWebAssets.xml
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/scopedcss/bundle/FreshAndWild2.styles.css
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.TagHelpers.input.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.TagHelpers.output.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorCoreGenerate.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Abonnement/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/ActivityViewUser.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/AddActivity.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/AddActivity2.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/EditActivity.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/Adhesion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/ErrorAdherent.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/SuccesAdhesion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/ActiviteVue.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/benevole.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/CreerProduit.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GererAdherents.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GererProduits.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Home.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/UpdateProduit.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Benevole/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/connexion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/ErrorConnexion.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/VeuillezVousConnecter.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/InnerPage.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/PortfolioDetails.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/PaiementInfo/Creer.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/PaiementInfo/Paiement.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/ObtenirPanier.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/Payer.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/SuccesPaiement.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Producteur/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Produit/DetailsProduit.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Produit/Index.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Recettes/Recette1.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutAdmin.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutDuSite.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorTargetAssemblyInfo.cache
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorTargetAssemblyInfo.cs
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.Views.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.CopyComplete
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.dll
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.pdb
+/Users/ckdieng/Downloads/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.genruntimeconfig.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.deps.json
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.runtimeconfig.json
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.runtimeconfig.dev.json
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.pdb
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.Views.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/FreshAndWild2.Views.pdb
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.AssemblyReference.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.AssemblyInfoInputs.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.AssemblyInfo.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.CoreCompileInputs.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.MvcApplicationPartsAssemblyInfo.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorAssemblyInfo.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorAssemblyInfo.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/staticwebassets/FreshAndWild2.StaticWebAssets.Manifest.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/staticwebassets/FreshAndWild2.StaticWebAssets.xml
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/scopedcss/bundle/FreshAndWild2.styles.css
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.TagHelpers.input.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.TagHelpers.output.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorCoreGenerate.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Abonnement/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/ActivityViewUser.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/AddActivity.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/AddActivity2.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/EditActivity.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Activite/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/Adhesion.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/ErrorAdherent.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Adherent/SuccesAdhesion.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/ActiviteVue.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/benevole.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/CreerProduit.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GererAdherents.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GererProduits.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Home.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Admin/UpdateProduit.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Benevole/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/connexion.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/ErrorConnexion.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Connexion/VeuillezVousConnecter.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/InnerPage.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Home/PortfolioDetails.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/PaiementInfo/Creer.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/PaiementInfo/Paiement.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/ObtenirPanier.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/Payer.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Panier/SuccesPaiement.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Producteur/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Produit/DetailsProduit.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Produit/Index.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Recettes/Recette1.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutAdmin.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutDuSite.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorTargetAssemblyInfo.cache
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.RazorTargetAssemblyInfo.cs
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.Views.pdb
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.csproj.CopyComplete
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.dll
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.pdb
+/Users/ckdieng/OneDrive MacbookPro/OneDrive/Isika/IsikaWork/PROJET2/Fresh_and_Wild_V3 7/FreshAndWild2/obj/Debug/netcoreapp3.1/FreshAndWild2.genruntimeconfig.cache
