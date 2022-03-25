@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{700CCEB8-FDF2-48CA-B94E-8E9D10F89E03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UtilisateurController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Panier.cs">
     <Files>
       <File FileName="Views/Abonnement/Index.cshtml" Line="111" Column="47" />
       <File FileName="Models/Dal.cs" />
       <File FileName="Models/BddContext.cs" />
       <File FileName="Views/Recettes/Recette1.cshtml" />
-      <File FileName="Controllers/AdminController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/AdminController.cs" />
       <File FileName="Controllers/AbonnementController.cs" />
       <File FileName="Controllers/ActiviteController.cs" />
-      <File FileName="Controllers/AdherentController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/UtilisateurController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/ProduitController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/ProducteurController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/PanierController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/PaiementController.cs" Line="14" Column="37" />
+      <File FileName="Controllers/AdherentController.cs" />
+      <File FileName="Controllers/UtilisateurController.cs" />
+      <File FileName="Controllers/ProduitController.cs" />
+      <File FileName="Controllers/ProducteurController.cs" />
+      <File FileName="Controllers/PanierController.cs" />
+      <File FileName="Controllers/PaiementController.cs" />
       <File FileName="Controllers/HomeController.cs" />
-      <File FileName="Controllers/ConnexionController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/BenevoleController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ConnexionController.cs" />
+      <File FileName="Controllers/BenevoleController.cs" />
       <File FileName="Controllers/AdresseController.cs" />
       <File FileName="Models/Activite.cs" />
       <File FileName="Models/Abonne.cs" />
@@ -24,7 +24,7 @@
       <File FileName="Models/Adresse.cs" />
       <File FileName="Models/LignePanier.cs" />
       <File FileName="Models/PaiementInfo.cs" />
-      <File FileName="Models/Panier.cs" />
+      <File FileName="Models/Panier.cs" Line="16" Column="1" />
       <File FileName="Models/Producteur.cs" />
       <File FileName="Models/Produit.cs" />
       <File FileName="Models/Session.cs" />
@@ -32,20 +32,20 @@
       <File FileName="Models/Categorie.cs" />
       <File FileName="Models/ImageModel.cs" />
       <File FileName="wwwroot/css/ActivityViewUser.css" />
-      <File FileName="Views/Home/Index.cshtml" Line="10" Column="25" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Views/Panier/ObtenirPanier.cshtml" />
+      <File FileName="Views/Panier/Payer.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FreshAndWild2" expanded="True">
             <Node name="FreshAndWild2" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="UtilisateurController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" selected="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Abonnement" expanded="True" />
-                <Node name="Home" expanded="True" />
+                <Node name="Panier" expanded="True" />
+                <Node name="Producteur" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
